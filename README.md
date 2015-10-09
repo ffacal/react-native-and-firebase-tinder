@@ -1,13 +1,13 @@
 # React Native Firebase Tinder like App - IOS
 
 While this demo has been tested in IOS and works, it is still work in progress.
-I wrote this example based on the following examples:
+I wrote this code based on the following examples:
 
 https://github.com/quuack/react-native-firebase-and-twitter-example
 https://github.com/brentvatne/react-native-animated-demo-tinder
 
 
-Objective-C is far from being my main expertise. Please, don't take this doc as reference for good practices. 
+Objective-C is far from being my main expertise. Please, don't take this code as reference for good practices. 
 
 This demo implements Firebase's authentication features and it focuses on Twitter Oauth methods.
 Note that Firebase also supports authentication with email & password and custom auth tokens as well as other providers (Facebook, Linkedin, Google, etc.)
