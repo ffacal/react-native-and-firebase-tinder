@@ -1,0 +1,2 @@
+FIREBASE_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/Firebase"
+FIREBASE_OTHER_LDFLAGS = -ObjC -l"FirebaseStatic" -l"c++" -l"icucore" -framework "CFNetwork" -framework "Security" -framework "SystemConfiguration"

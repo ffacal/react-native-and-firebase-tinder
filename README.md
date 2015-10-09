@@ -1,9 +1,6 @@
 # React Native Firebase Tinder like App - IOS
 
 While this demo has been tested in IOS and works, it is still work in progress.
-
-During my first React Native prototype project I couldn't find a good example of Firebase working with React Native. Instructions described here: https://www.firebase.com/blog/2015-05-29-react-native.html didn't work as I expected. 
-
 I wrote this example based on the following examples:
 
 https://github.com/quuack/react-native-firebase-and-twitter-example
